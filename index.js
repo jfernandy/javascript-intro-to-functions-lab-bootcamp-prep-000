@@ -2,6 +2,11 @@ function shout(string) {
   return string.toUpperCase()
 }
 
-function whisper() {
+function whisper(string) {
   return string.toLowerCase()
+}
+
+logShout(string); {
+  console.log(string)
+  return string.toUpperCase()
 }
