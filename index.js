@@ -17,20 +17,3 @@ function logWhisper(string) {
   return string.toLowerCase()
 }
 
-var lowercase = "hello!"
-var uppercase = "HELLO!"
-
-function sayHiToGrandma(string) {
-  if (lowercase.toLowerCase() === lowercase)
-  return ("I can't hear you!")
-}
-
-function sayHiToGrandma(string) {
-  if (string === "I love you, Grandma.")
-  return ("I love you, too.")
-}
-
-function sayHiToGrandma(string) {
-  if (uppercase.toUpperCase() === uppercase)
-  return ("I love you, too")
-}
